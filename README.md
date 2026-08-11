@@ -38,7 +38,7 @@ and role-based access control.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivana19&theme=radical&hide_border=true"/>
+ <img src="https://streak-stats.demolab.com/?user=sivana19&theme=radical&hide_border=true"/>
 </p>
 
 <br>
