@@ -1,10 +1,8 @@
 # Hi, I'm Ruth 👋
 Software Engineer | QA Engineer | Backend Development with Go
 
-QA Engineer at Eaglelion Software, working on financial services platforms
-including agency banking systems. Currently expanding into backend
-development with Go, building REST APIs with authentication, databases,
-and role-based access control.
+I'm a Software Engineer currently working as a QA Engineer at Eaglelion Software, contributing to quality assurance for financial services platforms, including agency banking systems.
+I'm passionate about building reliable software, exploring backend engineering, and improving my skills through practical projects. Currently, I'm focusing on Go, REST API development, authentication, database design, and system architecture.
 
 <br>
 
